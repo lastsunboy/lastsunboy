@@ -2,7 +2,11 @@
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on laravel project
+<<<<<<< Updated upstream
 - 📫 How to reach me IG : LastSunBoy990
+=======
+- 📫 How to reach me IG : LastSunBoy1990
+>>>>>>> Stashed changes
 
 <!---
 lastsunboy/lastsunboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
